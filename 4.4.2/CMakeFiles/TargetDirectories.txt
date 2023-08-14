@@ -1,0 +1,7 @@
+C:/Users/Мария.MARY/Desktop/gjck/4.4.2/CMakeFiles/MyProject.dir
+C:/Users/Мария.MARY/Desktop/gjck/4.4.2/CMakeFiles/MyProjectTest.dir
+C:/Users/Мария.MARY/Desktop/gjck/4.4.2/CMakeFiles/ALL_BUILD.dir
+C:/Users/Мария.MARY/Desktop/gjck/4.4.2/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Мария.MARY/Desktop/gjck/4.4.2/Catch2-build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Мария.MARY/Desktop/gjck/4.4.2/Catch2-build/src/CMakeFiles/Catch2.dir
+C:/Users/Мария.MARY/Desktop/gjck/4.4.2/Catch2-build/src/CMakeFiles/Catch2WithMain.dir
